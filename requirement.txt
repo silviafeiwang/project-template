@@ -1,0 +1,4 @@
+postgres
+redis
+TA-Lib
+jesse
